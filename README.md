@@ -1,1 +1,1 @@
-A Project that is inspired from the saw movie but the game is different than SAW. In this game as a player I have to answer questions that appears in the tv.
+A Project that is inspired from the saw movie but the game is different than SAW. In this game as a player I have to answer questions that appears in the tv, If the player give the wrong answer he have to cut one of his limb or else the villian will kill him and gave will be over. If the player give right answer.
